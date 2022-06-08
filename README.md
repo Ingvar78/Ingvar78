@@ -11,7 +11,7 @@ List of ways you can follow me:
 
 ## Metrics
 
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Ingvar78&theme=dark&show_icons=true)
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Ingvar78&theme=dark&show_icons=true&count_private=true)
 
 ![Metrics](https://metrics.lecoq.io/Ingvar78?template=classic&base.indepth=false&base.hireable=false&config.timezone=Europe%2FMoscow)
 
