@@ -7,8 +7,7 @@ List of ways you can follow me:
 
 - 👩‍💻[LinkedIn](https://linkedin.com/in/igor-vishenkov-69a5741b/)
 - [Telegram](https://t.me/vishenkov)
-
-📫 Reach me out at igor@vishenkov.ru
+- :mailbox: Reach me out at igor@vishenkov.ru
 
 ## Metrics
 
