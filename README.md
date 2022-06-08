@@ -14,3 +14,5 @@ List of ways you can follow me:
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Ingvar78)
 
 ![Metrics](https://metrics.lecoq.io/Ingvar78?template=classic&base.indepth=false&base.hireable=false&config.timezone=Europe%2FMoscow)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ingvar78&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
