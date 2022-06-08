@@ -5,7 +5,7 @@ I am Igor Vsihenkov, Support Engineer based in Moscow, Russia...
 
 List of ways you can follow me:
 
-- 👩‍💻[LinkedIn](https://linkedin.com/in/igor-vishenkov-69a5741b/)
+- :man:[LinkedIn](https://linkedin.com/in/igor-vishenkov-69a5741b/)
 - [Telegram](https://t.me/vishenkov)
 - :mailbox: Reach me out at igor@vishenkov.ru
 
